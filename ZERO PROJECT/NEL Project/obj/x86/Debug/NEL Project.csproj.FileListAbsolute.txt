@@ -1,0 +1,13 @@
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\bin\Debug\NEL Project.exe
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\bin\Debug\NEL Project.pdb
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\NEL Project.exe
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\NEL Project.pdb
+C:\Users\Aluno\Daniel\NEL Project\NEL Project\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Aluno\Desktop\NEL Project\NEL Project\obj\x86\Debug\NEL Project.exe
+C:\Users\Aluno\Desktop\NEL Project\NEL Project\obj\x86\Debug\NEL Project.pdb
